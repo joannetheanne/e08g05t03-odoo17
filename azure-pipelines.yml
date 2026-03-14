@@ -11,6 +11,7 @@ variables:
   repoUrl: 'https://github.com/irvint1/e08g05t03-odoo17.git'
   updateScript: '/home/is214/deploy-temp/update_code.sh'
   stagePath: '/home/is214/'
+  tempDeploy: '/home/is214/deploy-temp'
 
 stages:
 
